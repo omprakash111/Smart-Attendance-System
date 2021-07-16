@@ -1,4 +1,4 @@
-import yagmail
+import yagmail 
 import os
 
 receiver = "mygmail@gmail.com"  # receiver email address
